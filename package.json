@@ -1,0 +1,23 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/246k/number-formatter.git"
+  },
+  "author": "Kate Kraynak <katekraynak@gmail.com> (http://lamp.cse.fau.edu/~kkraynak/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/246k/number-formatter/issues"
+  },
+  "homepage": "https://github.com/246k/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
